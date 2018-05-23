@@ -1,0 +1,19 @@
+transparency to be used in company name where background id to be made visible too
+
+background color can also be applied to a particular div
+background image can also be applied to a particluar div , of course in conjunction with all other properties
+
+border's can be round through border-radius property
+
+padding can be given on all 4 sides top bottom up down
+
+box-sizing property is to be used when padding is not to be used in width property
+
+test-shadow can be used for impact
+
+position: fixed can be used to put a div on a specified place in web page like always on left bottom
+
+z-index : -1 is used to put image behind the text
+
+overflow: scroll is required when div width is smaller than it's content , then it adds scroll bar automatically
+

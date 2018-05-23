@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+<head>
+	<title>
+		Focus Forms
+	</title>
+	<style>
+	input[type=text]
+	{
+		width:50%;
+		padding:12px 20px;
+		margin:8px;
+		border: 1px solid #999;
+		outline:none;
+	}
+	input[type=text]:focus
+	{
+		background-color : lightblue;
+	}
+	</style>
+	<meta charset = "UTF-8">
+</head>
+<body>
+	<form action = "/action_page.php">
+	Please Enter your name<input type = "text" name = "name"><br>
+	<input type = "submit">
+	</form>
+</body>
+</html>
