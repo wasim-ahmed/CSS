@@ -17,3 +17,185 @@ z-index : -1 is used to put image behind the text
 
 overflow: scroll is required when div width is smaller than it's content , then it adds scroll bar automatically
 
+
+display can br:
+inline
+block
+flex
+
+flexbox is the efficient display technique to arrange the display of content, it has many properties:
+
+
+1.display
+Specifies the type of box used for an HTML element
+
+2.flex-direction
+Specifies the direction of the flexible items inside a flex container
+
+3.justify-content
+Horizontally aligns the flex items when the items do not use all available space on the main-axis
+
+4.align-items
+Vertically aligns the flex items when the items do not use all available space on the cross-axis
+
+5.flex-wrap
+Specifies whether the flex items should wrap or not, if there is not enough room for them on one flex line
+
+6.align-content
+Modifies the behavior of the flex-wrap property. It is similar to align-items, but instead of aligning flex items, it aligns flex lines
+
+7.flex-flow
+A shorthand property for flex-direction and flex-wrap
+
+8.order
+Specifies the order of a flexible item relative to the rest of the flex items inside the same container
+
+9.align-self
+Used on flex items. Overrides the container's align-items property
+
+
+other flex properties are:
+flex-basis
+flex-direction
+flex-flow
+flex-grow
+flex-shrink
+flex-wrap
+
+other properties of font:
+font-family
+font-size
+font-style
+font-variant
+font-weight
+
+as compared to flex display we can also choose grid display, some properties are:
+grid-column
+grid-column-start
+grid-column-gap
+grid-column-end
+grid-auto-rows
+grid-auto-column
+grid-auto-flow
+grid-row
+grid-row-start
+grid-row-gap
+grid-row-end
+grid-template
+grid-template-area
+grid-template-columns
+grid-template-rows
+
+background-colour
+background-image
+background-attachment
+background-clip
+background-origin
+background-position
+background-repeat
+background-size
+
+
+left
+letter-spacing, animation cool property
+line-height, good animation
+
+margin, animation cool
+margin-top
+margin-bottom
+margin-left
+margin-right
+
+@media
+
+opacity, cool animation
+outline,animation
+
+outline-colour, animation
+outline-offset, animation
+
+overflow
+overflow-x
+overflow-y
+
+border-color
+border-collapse
+border-spacing
+
+border-image
+border-image-outset
+border-image-repeat
+border-image-slice
+border-image-source
+border-image-width
+
+
+border-bottom-colour
+border-bottom-left-radius
+border-bottom-right-radius
+border-bottom-style
+border-bottom-width
+
+border-top-left-radius
+border-top-right-radius
+
+box-shadow
+
+caption-side
+
+clip
+
+column-count
+column-fill
+column-gap
+column-rule
+column-span
+column-width
+
+counter-increment
+
+padding, cool animation
+
+perspective, cool animation
+perspective-origin, cool animation
+
+position : absolute/sticky/static/relative/fixed
+
+quote
+
+right: for positioning of element
+
+text-align
+
+text-decoration
+text-indent
+text-overflow
+text-shadow
+text-transform
+
+top
+
+transition-delay
+transition-duration
+transform
+
+user-select
+vertical-align
+visibility
+
+width
+word-spacing
+
+z-index
+
+animation-delay
+animation-fill-mode
+animation-iteration-count
+animation-name
+animation-play-state
+animation-timing-function
+
+cubic-bezier
+
+the default of position is static
+
